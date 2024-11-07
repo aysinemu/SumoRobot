@@ -16,7 +16,7 @@ Component:
 
 ## Wire
 
-You can connect IR sensor and Ultrasonic into any pin of Yolo Uno but make sure you note it down so later you need to change the pin number in the SumoRobot.py code.
+You can connect IR sensor and Ultrasonic into any pin of Yolo Uno and Motor to any pin of Motor Shield but make sure you note it down so later you need to change the pin number in the SumoRobot.py code.
 
 ## Test
 
