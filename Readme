@@ -1,3 +1,32 @@
-Khi bạn sử dụng code này của mình thì hãy nhớ khai lại chân các cảm biến, động cơ để có thể chạy trơn tru và đúng trường hợp nhá. 
-Nhớ kiểm tra kĩ lại các cảm biến, mạch,.. của bạn xem có bị hư không nha. 
-Đừng đổ lỗi do code mình, code mình chạy á nhá.
+## Introduction
+
+Sumo Robot.
+
+You will need all the component like below if you don't have that component just replace with a different component but make sure that component work the same.
+
+Component:
+
+* Yolo Uno
+* Motor Driver Shield
+* 4 Motor (Any)
+* 4 IR Sensor
+* 2 Ultrasonic Sensor ( 1 Ultrasonic Sensor is fine , 2 is for more accuracy )
+* Battery
+
+## Wire
+
+You can connect IR sensor and Ultrasonic into any pin of Yolo Uno but make sure you note it down so later you need to change the pin number in the SumoRobot.py code.
+
+## Test
+
+After done connecting the wire you need to test all the sensor and the motor to see if it's working smoothly or not.
+To test you just have to call out the function.
+For the IR call out read_digital().
+For the Ultrasonic call out the distance_cm().
+For the Motor call out the forward(),...
+
+## Finally
+
+After done testing and change the pin number and if everything working according to plan then upload the SumoRobot.py to your Yolo Uno and have fun with your Robot.
+
+
