@@ -12,6 +12,7 @@ Component:
 * 4 IR Sensor
 * 2 Ultrasonic Sensor ( 1 Ultrasonic Sensor is fine , 2 is for more accuracy )
 * Battery
+* Chassis
 
 ## Wire
 
